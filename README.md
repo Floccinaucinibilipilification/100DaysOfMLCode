@@ -10,9 +10,11 @@ Machine Learning is the most transformative technology of our time. Whether its 
 
 ## Project Ideas
 
-- My pick is the []() 
+- My pick is the [CheXpert Competition](https://stanfordmlgroup.github.io/competitions/chexpert/). 
 
-- Siraj's pick is [Preventing the Spread of Dengue Fever](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/). 
-The task is to predict the number of dengue cases each week (in each location) based on environmental variables describing changes
-in temperature, precipitation, vegetation, and more. An understanding of the relationship between climate and dengue dynamics can improve research 
-initiatives and resource allocation to help fight life-threatening pandemics. You can literally save lives with machine learning.
+- CheXpert is a large dataset of chest X-rays and competition for automated chest x-ray interpretation, which features uncertainty labels and radiologist-labeled reference standard evaluation sets.
+
+- Chest radiography is the most common imaging examination globally, critical for screening, diagnosis, and management of many life threatening diseases. Automated chest radiograph interpretation at the level of practicing radiologists could provide substantial benefit in many medical settings, from improved workflow prioritization and clinical decision support to large-scale screening and global population health initiatives. 
+
+- A labeled dataset that (1) is large, (2) has strong reference standards, and (3) provides expert human performance metrics for comparison.
+
